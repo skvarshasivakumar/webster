@@ -1,0 +1,87 @@
+body{
+  background-image: url("img/2.jpg");
+  background-size:85rem 50rem;
+  background-repeat: no-repeat;
+  padding:2%;
+}
+#placementtext{
+  justify-content: left !important;
+}
+.planet{
+  margin-left: 5% !important;
+}
+.careerimage{
+  margin-left: 4%;
+  transform: rotate(-5deg);
+}
+#oneoffour{
+  width:30rem !important;
+  height:25rem !important;
+
+}
+#oneoffourr{
+  width:20rem !important;
+  height:25rem !important;
+
+}
+
+#footer{
+  background-color: #d8b109;
+  margin-top: 10%;
+  margin-bottom: -10%;
+  margin-left: -5%;
+  font-size: 1.5rem;
+  font-family: 'Playfair Display', serif;
+  margin-right: -5%;
+  padding:1%;
+  color:white;
+}
+#welcome{
+  font-size: 5rem;
+  font-family: 'Satisfy',cursive;
+  color:white;
+  margin-left: 10%;
+  align-items: center;
+}
+#wall{
+  margin-left: 3%;
+  height:80px;
+  width:150px;
+}
+#space{
+  padding:30px;
+  padding-bottom: 40%;
+
+}
+#navcontent{
+  letter-spacing: normal;
+  color:black;
+  font-family: 'Recursive', sans-serif;
+  font-size: 1.2rem;
+}
+.careerplanet{
+  font-weight: bold;
+  font-size: 3rem;
+}
+#uni:hover{
+background-color: #d8b109 !important;
+}
+#uni2:hover{
+background-color: #007060 !important;
+}
+#navcontent:hover {
+color: #293462;
+text-decoration: underline;
+}
+#learntwo{
+  text-align: left;
+}
+#learn{
+  text-align: right;
+}
+#second {
+  margin:-10%;
+  padding:5%;
+  background-color: black;
+  color: white;
+}
